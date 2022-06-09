@@ -1,8 +1,3 @@
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-
-
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from pyvirtualdisplay import Display
